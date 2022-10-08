@@ -1,3 +1,8 @@
+# Ignore artifacts:
+build
+coverage
+
+# Gitignore copied
 node_modules/
 .expo/
 dist/
